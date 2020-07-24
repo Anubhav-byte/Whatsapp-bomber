@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from time import sleep
 
-driver=webdriver.Chrome(executable_path=r'd:\chromedriver.exe')
+driver=webdriver.Chrome(executable_path=r'd:\chromedriver.exe') #Replace the path with the location of your chromedriver
 driver.get('https://web.whatsapp.com/')
 
 wait=WebDriverWait(driver,600)
