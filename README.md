@@ -11,7 +11,9 @@ To use the script you need to have following thing installed in your system:
 4.chromedriver in your system
 
 How to use it:
+
 You need to make the ollowing change to the script to use it successfully:
+ 
  1.Change the variable contact to the name of contact you want to send message.
  
  2.Change the message variable to a message of your liking.
@@ -21,8 +23,11 @@ You need to make the ollowing change to the script to use it successfully:
  4.change the executable path of the chrome driver to the path where you have stored your chromedriver.
  
  How to run it:
+ 
  1.open cmd and enter the command "python whatsapp_bomber.py".
+ 
  2. In case of linux or mac, type the command "python3 whatsapp_bomber.py".
+ 
  3.A chrome browser window will pop up with whatsapp web. Scan the qr code using your phone whatsapp.
  
  How to install the files required:
