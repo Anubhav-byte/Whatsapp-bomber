@@ -1,6 +1,7 @@
 # Whatsapp-bomber
 A script to bombard your friend with as many message as you want.
-To use the script you need to have following thing installed in your system:
+
+## Prerequisite 
 
 1.Chrome Web browser
 
@@ -8,11 +9,11 @@ To use the script you need to have following thing installed in your system:
 
 3.Selenium web driver along with python
 
-4.chromedriver in your system
+4.Chromedriver in your system
 
-How to use it:
+## Deployment
 
-You need to make the ollowing change to the script to use it successfully:
+You need to make the following change to the script to use it successfully:
  
  1.Change the variable contact to the name of contact you want to send message.
  
@@ -24,17 +25,18 @@ You need to make the ollowing change to the script to use it successfully:
  
  How to run it:
  
- 1.open cmd and enter the command "python whatsapp_bomber.py".
+ 1.open cmd and enter the command *python whatsapp_bomber.py*.
  
- 2. In case of linux or mac, type the command "python3 whatsapp_bomber.py".
+ 2.In case of linux or mac, type the command *python3 whatsapp_bomber.py*.
  
  3.A chrome browser window will pop up with whatsapp web. Scan the qr code using your phone whatsapp.
  
- How to install the files required:
+ ## Installation
+ 
 1.Download and install python3 b going to the following link:
     https://www.python.org/downloads/release/python-383/
 
-2.Install selenium by entering the command "pip install selenium" in cmd.
+2.Install selenium by entering the command *pip install selenium* in cmd.
 
 3.In case of linux, python3 should be automatically installed, you can install selenium by using the above command.
 
