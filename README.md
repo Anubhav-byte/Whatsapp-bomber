@@ -21,11 +21,11 @@ You need to make the following change to the script to use it successfully:
  
  3.By default, the number of messages is set to 100. You can change it to whatever no of messages you would like to sent.
  
- 4.change the executable path of the chrome driver to the path where you have stored your chromedriver.
+ 4.Change the executable path of the chrome driver to the path where you have stored your chromedriver.
  
  How to run it:
  
- 1.open cmd and enter the command *python whatsapp_bomber.py*.
+ 1.Open cmd and enter the command *python whatsapp_bomber.py*.
  
  2.In case of linux or mac, type the command *python3 whatsapp_bomber.py*.
  
